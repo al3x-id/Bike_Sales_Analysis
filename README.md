@@ -17,9 +17,9 @@ This dashboard analyzes bike sales based on customer demographics such as age, g
 - 🚻 Bike ownership is **almost evenly split** between male and female buyers.
 
 ## 📂 Files Included
-- `Bike Sales Analysed.xlsx`: The Excel file cotaining the raw data
 - `Bike Sales.xlsx`: The Excel file containing the dashboard and data
-- `Dashboard picture.png`: A screenshot preview of the dashboard
+- `Bike sales analysis.png`: A screenshot preview of the dashboard
+- - `Bike Sales Analysed.xlsx`: The Excel file cotaining the raw data
 
 ## 🚀 Why This Matters
 
