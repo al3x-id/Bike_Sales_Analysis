@@ -19,7 +19,7 @@ This dashboard analyzes bike sales based on customer demographics such as age, g
 ## 📂 Files Included
 - `Bike Sales.xlsx`: The Excel file containing the dashboard and data
 - `Bike sales analysis.png`: A screenshot preview of the dashboard
-- - `Bike Sales Analysed.xlsx`: The Excel file cotaining the raw data
+- `Bike Sales Analysed.xlsx`: The Excel file cotaining the raw data
 
 ## 🚀 Why This Matters
 
